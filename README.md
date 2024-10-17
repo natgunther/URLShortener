@@ -7,4 +7,4 @@
 `docker run -p 127.0.0.1:8000 your-image-name`
 
 ## FastAPI endpoints
-http://127.0.0.1:8000/docs#/
+http://127.0.0.1:8000/docs
